@@ -1,4 +1,4 @@
-# Linear Regression Project Summary
+# Regression Project (Linear, Lasso and Ridge)
 
 ## Overview
 This project involves predicting median house values in California districts using linear regression applied to the California_Houses.csv dataset. The dataset contains various features such as median income, population, and geographical information. The goal is to build and evaluate linear regression models and explore Lasso and Ridge regression for potential improvement.
