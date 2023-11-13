@@ -3,7 +3,7 @@
 ## Overview
 This project involves predicting median house values in California districts using linear regression applied to the California_Houses.csv dataset. The dataset contains various features such as median income, population, and geographical information. The goal is to build and evaluate linear regression models and explore Lasso and Ridge regression for potential improvement.
 
-![image](https://github.com/SaadElDine/House-Price-Prediction-Gradient-Descent/assets/113860522/91a1853e-e9e6-4182-852a-a7feb2b8d7f2)
+![image](https://github.com/SaadElDine/House-Price-Prediction-Gradient-Descent/assets/113860522/73e137f1-6f7d-4b30-89f4-e7b4ede3aa7e)
 
 
 ## Steps
